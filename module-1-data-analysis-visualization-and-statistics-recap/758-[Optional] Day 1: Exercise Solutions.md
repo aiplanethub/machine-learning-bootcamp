@@ -1,0 +1,1 @@
+<p>Solutions for the exercises in Instructor&#39;s notebook:&nbsp;<a href="https://dphi.tech/notebooks/889/manish_kc_06/pandas_exercises_solutions" target="_blank">https://dphi.tech/notebooks/889/manish_kc_06/pandas_exercises_solutions</a></p>
