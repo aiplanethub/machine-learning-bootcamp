@@ -1,0 +1,2 @@
+<h1>Refresher: Input variables, Target variable, Train and Test data intuition</h1>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/y_SdBb2_Hiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
