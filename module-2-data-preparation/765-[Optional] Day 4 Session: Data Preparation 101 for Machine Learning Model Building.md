@@ -1,0 +1,2 @@
+<h1>[Optional] Day 4 Session: Data Preparation 101 for Machine Learning Model Building</h1>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/X6zz9Z2KDtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
