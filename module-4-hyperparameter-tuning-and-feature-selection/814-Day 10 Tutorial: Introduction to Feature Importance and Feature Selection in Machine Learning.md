@@ -1,2 +1,0 @@
-<h1>Day 10 Tutorial: Introduction to Feature Importance and Feature Selection in Machine Learning</h1>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/t4mTeqZ8YZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
