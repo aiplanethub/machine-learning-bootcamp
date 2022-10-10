@@ -1,2 +1,0 @@
-<h1>[Optional] Day 1 Live Session: Introduction to Machine Learning & Fundamentals of Python</h1>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/OYrvvWtwphQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
