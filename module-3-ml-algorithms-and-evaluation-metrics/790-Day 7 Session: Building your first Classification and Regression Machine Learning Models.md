@@ -1,2 +1,0 @@
-<h1>Day 7 Session: Building your first Classification and Regression Machine Learning Models</h1>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/RQREtoAbloo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
