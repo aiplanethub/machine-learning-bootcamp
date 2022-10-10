@@ -1,1 +1,0 @@
-<p>Session Notebook:&nbsp;<a href="https://dphi.tech/notebooks/884/gunnika/end-to-end-model-building-patient-data" target="_blank">https://dphi.tech/notebooks/884/gunnika/end-to-end-model-building-patient-data</a></p>
