@@ -226,4 +226,4 @@ Pandas.
 
 ### Slide Download Link
 
-You can download these slides for this topic from [here](https://docs.google.com/presentation/d/1PcQQ9HCzc6y6nWCJ4UyGemQHKIlJVw6gv6YuchSxEdI/edit?usp=sharing).
+You can download the slides for this topic from [here](https://docs.google.com/presentation/d/1PcQQ9HCzc6y6nWCJ4UyGemQHKIlJVw6gv6YuchSxEdI/edit?usp=sharing).
