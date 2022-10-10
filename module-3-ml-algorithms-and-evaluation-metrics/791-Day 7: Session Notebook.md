@@ -1,1 +1,0 @@
-<p>You can find the instructor&#39;s notebook here:&nbsp;<a href="https://dphi.tech/notebooks/883/gunnika/supervised-ml-model-building-walkthrough" target="_blank">https://dphi.tech/notebooks/883/gunnika/supervised-ml-model-building-walkthrough</a></p>
