@@ -1,1 +1,0 @@
-<p>The slides and notebooks used during the session can be found here:&nbsp;<a href="https://github.com/pycaret/pycaret-demo-dphi" target="_blank">https://github.com/pycaret/pycaret-demo-dphi</a></p>
