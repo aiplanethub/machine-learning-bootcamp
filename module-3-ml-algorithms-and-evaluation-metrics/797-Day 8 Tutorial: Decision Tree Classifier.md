@@ -1,2 +1,0 @@
-<h1>Day 8 Tutorial: Decision Tree Classifier</h1>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/m66UP8pMdsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
